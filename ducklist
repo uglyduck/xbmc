@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:-1,M Tunes (India)
+http://mthls-i.akamaihd.net/hls/live/219508/mthls/06.m3u8
+
+#EXTINF:-1,Best of Quagmire
+https://www.youtube.com/watch?v=JKWB7V3jvyQ
+
+#EXTINF:-1 tvg-logo="BBCNews.png" group-title="UK Live TV", BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?BBC_World_News
+
+#EXTINF:-1 tvg-logo="BBCNews.png" group-title="UK Live TV", BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 tvg-logo="Boomerang.png" group-title="UK Live TV", Boomerang
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8
+
+#EXTINF:-1,Playboy TV 1
+http://iptv.sat-elit.net/hls/527/index.m3u8
+
+#EXTINF:-1,Playboy TV 2
+rtmp://iptv.sat-elit.net/iptv/527
+
+#EXTINF:0, Alb Uk HD
+rtmp://188.138.17.8:1935/albuk/albuk.stream
+
+#EXTINF:0, Alb Uk Plus
+rtmp://188.138.17.8:1935/albuk/albuk+.stream
+
+#EXTINF:-1,1 on 1 Boxing TV
+rtmp://204.107.26.145:1935/live/1988.low.stream
+
+#EXTINF:-1,Ebru TV
+rtmp://204.107.26.252:8086/live/914.high.stream
+
+#EXTINF:-1,eScapes HD TV
+rtmp://204.107.26.252:8086/live/341.high.stream
+
+#EXTINF:-1,FilmOn Classics
+rtmp://mi2.gv.filmon.com:8086/live/206.high.stream
+
+#EXTINF:-1,FilmOn Martial Arts
+rtmp://mi2.gv.filmon.com:8086/live/10.high.stream
+
+#EXTINF:-1,QVC
+rtmp://204.107.26.252:8086/live/413.high.stream
+
+#EXTINF:-1,QVC HD
+rtmp://204.107.26.252:8086/live/413.high.stream
+
+#EXTINF:-1,Press TV
+rtmp://204.107.26.252:8086/live/905.high.stream
+
+#EXTINF:-1,Psychic Today
+rtmp://204.107.26.252:8086/live/1711.high.stream
+
+#EXTINF:-1,RSquared
+rtmp://mi2.gv.filmon.com:8086/live/256.high.stream
+
+#EXTINF:-1,Sportskool
+rtmp://204.107.26.252:8086/live/686.high.stream
+
+#EXTINF:-1,Time TV
+rtmp://204.107.26.252:8086/live/414.high.stream
+
+#EXTINF:-1,UNRELIABLE SOURCES
+rtmp://mi2.gv.filmon.com:8086/live/239.high.stream
+
+#EXTINF:-1,Wine Channel TV
+rtmp://mi2.gv.filmon.com:8086/live/263.high.stream
+
+#EXTINF:-1,YouToo
+rtmp://204.107.26.252:8086/live/773.high.stream
+
+#EXTINF:-1,Amazing Facts TV
+http://bglive-w.bitgravity.com/amazingfacts/live/feed01
+
+#EXTINF:-1,Beauty TV
+rtsp://46.249.213.87/broadcast/beautytv-tablet.3gp
+
+#EXTINF:-1,bollywoodaction2
+rtsp://46.249.213.87/broadcast/bollywoodaction2-tablet.3gp
+
