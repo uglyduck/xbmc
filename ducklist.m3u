@@ -5,14 +5,14 @@ http://mthls-i.akamaihd.net/hls/live/219508/mthls/06.m3u8
 #EXTINF:-1,B4U Music (India)
 rtsp://46.249.213.87/broadcast/b4u-tablet.3gp
 
+#EXTINF:-1,B4U Music (India)
+https://raw.githubusercontent.com/uglyduck/xbmc/master/b4umusic.m3u
+
 #EXTINF:-1,9XM (India)
 rtsp://46.249.213.87/broadcast/9xm-tablet.3gp
 
-#EXTINF:-1,B4U Music (India)
-http://46.249.213.87/broadcast/b4u-tablet.3gp
-
 #EXTINF:-1,9XM (India)
-http://46.249.213.87/broadcast/9xm-tablet.3gp
+https://raw.githubusercontent.com/uglyduck/xbmc/master/9xm.m3u
 
 #EXTINF:-1,Best of Quagmire
 https://www.youtube.com/watch?v=JKWB7V3jvyQ
