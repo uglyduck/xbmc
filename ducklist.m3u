@@ -2,17 +2,29 @@
 #EXTINF:-1,M Tunes (India)
 http://mthls-i.akamaihd.net/hls/live/219508/mthls/06.m3u8
 
-#EXTINF:-1,B4U Music (India-rtsp)
+#EXTINF:-1,B4U Music RTSP (India)
 rtsp://46.249.213.87/broadcast/b4u-tablet.3gp
 
-#EXTINF:-1,B4U Music (India-m3u)
+#EXTINF:-1,B4U Music M3U (India)
 http://raw.githubusercontent.com/uglyduck/xbmc/master/b4umusic.m3u
 
-#EXTINF:-1,9XM (India-rtsp)
+#EXTINF:-1,9XM RTSP (India)
 rtsp://46.249.213.87/broadcast/9xm-tablet.3gp
 
-#EXTINF:-1,9XM (India-m3u)
+#EXTINF:-1,9XM M3U (India-m3u)
 http://raw.githubusercontent.com/uglyduck/xbmc/master/9xm.m3u
+
+#EXTINF:-1,zing RTSP (India)
+rtsp://46.249.213.87:554/playlists/zing_hvga.hpl.3gp
+
+#EXTINF:-1,zing M3U (India)
+https://github.com/uglyduck/xbmc/raw/master/zing.m3u
+
+#EXTINF:-1,HungamaTV RTSP (India)
+rtsp://46.249.213.87:554/playlists/bollywood-hits_hvga.hpl.3gp
+
+#EXTINF:-1,HungamaTV M3U (India)
+https://github.com/uglyduck/xbmc/raw/master/hungamaTV.m3u
 
 #EXTINF:-1,Best of Quagmire
 https://www.youtube.com/watch?v=JKWB7V3jvyQ
