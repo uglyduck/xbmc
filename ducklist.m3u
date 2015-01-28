@@ -104,3 +104,242 @@ rtsp://46.249.213.87/broadcast/beautytv-tablet.3gp
 #EXTINF:-1,bollywoodaction2
 rtsp://46.249.213.87/broadcast/bollywoodaction2-tablet.3gp
 
+#EXTINF:-1,[COLOR yellow]HD King's Live Streams[/COLOR]  
+http:///youtube.com
+
+#EXTINF:-1,[COLOR yellow]Updated 26 January 2015[/COLOR]  
+http:///youtube.com
+
+#EXTINF:-1,A & E
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=106&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="ABC.png",ABC News HD
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1,AMC
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=330&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,ANTENA 3 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1,AXN
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=110&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Azcorazon HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=479&lan=2&rows=40&f=.m3u8
+
+#EXTINF:0,BEIN HD
+http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/chunklist_w415544469.m3u8
+
+#EXTINF:-1,Berita Satu English HD
+http://beritasatulive-lh.akamaihd.net/i/b1english_1@50428/index_720_av-p.m3u8
+
+#EXTINF:-1,Berita Satu Sport HD
+http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
+
+#EXTINF:-1,Canal+ Sport
+http://stream4.latvdefrance.com/demo/canalsport.m3u8 
+
+#EXTINF:-1,Cinecanal HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=310&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Comedy Central
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=174&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Dpelicula HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=326&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Digi 24 HD
+http://82.76.249.77/digi24edge/digi24hdhqhls/bratumarian.m3u8
+
+#EXTINF:-1,Discovery Theatre
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=242&lan=2&rows=40&f=.m3u8
+
+#EXTINF:0,Duna HD
+http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist.m3u8
+
+#EXTINF:0,Duna World HD
+http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist.m3u8 
+
+#EXTINF:-1 tvg-logo="Bio.png",eScapes HD TV
+http://204.107.26.252:1935/live/341.high.stream/RacacaxTV.m3u8
+
+#EXTINF:-1,Estrella HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=478&lan=2&rows=40&f=.m3u8
+
+#EXTINF: -1,Eurosport HD
+http://146.158.123.198:4022/udp/239.72.6.50:1234
+
+#EXTINF: -1,Eurosport 2 HD
+http://146.158.123.198:4022/udp/239.72.6.51:1234
+
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="Sports",FIGHTBOX HD
+http://stream1.zoovision.com/livespi/fightbox/playlist.m3u8
+
+#EXTINF:-1,Film Zone HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=322&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,fix tv HD  
+rtmp://video.fixhd.tv/fix/hd.stream
+
+#EXTINF:-1,Fox Action HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=302&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Fox
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=86&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Fox 1 HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=298&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Fox Movie HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=306&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Fox M
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=126&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,FX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=102&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Golden HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=318&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,History
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=246&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,La Sexsta HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 tvg-logo="London Live.png",London Live  
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8?b?b*t$
+
+#EXTINF:-1,MTV Live
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=430&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="DMAX.png",NASA Media HD
+http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8?b?b*t$
+
+#EXTINF:-1,Natgeo Wild
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=250&lan=2&rows=40&f=.m3u8
+
+#EXTINF:0,NFL AM
+http://hls35.livestreamingcdn.com/livecdn625/myStream.sdp/chunklist_w415544469.m3u8
+
+#EXTINF:-1,Nick HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=214&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,NTV Plus Football 1 HD
+http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-80.m3u8 
+
+#EXTINF:-1,NTV Plus Football 2 HD
+http://193.232.151.135/hls-live/livepkgr/_1041_/1041/1041-80.m3u8 
+
+#EXTINF:-1,NTV Plus Football 3 HD
+http://193.232.151.135/hls-live/livepkgr/_1060_/1060/1060-70.m3u8
+
+#EXTINF:-1,PAC 12 Arizona HD 
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",Pac 12 Bay Area 720 HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+
+#EXTINF:-1,PAC 12 Bay Area HD
+http://xrxs.net/video/live-p12baya-4728.m3u8
+
+#EXTINF:-1 tvg-logo="Pac12.png" Pac National 1080 HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+
+#EXTINF:-1 $ExtFilter="Rtmp",Pic HD
+rtmp://$OPT:rtmp-raw=rtmp://fms.pik-tv.com/live/piktv3pik3tv swfUrl=http://pik-tv.com/uppod.swf
+
+#EXTINF:-1,PAC 12 Washington HD
+http://xrxs.net/video/live-p12wash-4728.m3u8
+
+#EXTINF:0,Polo Party TV
+http://stream.smcloud.net/live2/polo_party/polo_party_720p/Polo Party TV.m3u8
+
+#EXTINF:-1,Px Hits
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=475&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,RT HD  
+http://odna.octoshape.net/f3f5m2v4/cds/ch6_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="DMAX.png",RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8?b?b*t$
+
+#EXTINF:-1,Sony
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=90&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Space HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=334&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="DMAX.png",Sport HD
+http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/playlist.m3u8
+
+#EXTINF:-1,SPORT TIME TV 1 HD  
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+
+#EXTINF:-1,SPORT TIME TV 2 HD  
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+
+#EXTINF:-1,SPORT TIME TV 3 HD  
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+
+#EXTINF:-1,SPORT TIME TV 4 HD  
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+
+#EXTINF:-1,SPORT TIME TV 5 HD  
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+
+#EXTINF:-1,SPORT TIME TV 6 HD  
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+
+#EXTINF:-1,SPORT TIME TV 7 HD  
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+
+#EXTINF:-1,Sports Night HD
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+
+#EXTINF:-1,Super Tennis HD
+http://109.87.242.45:8888/udp/238.0.16.63:1234
+
+#EXTINF:-1,Telehit
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=434&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TLC HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=254&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TNT HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=314&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,TRT HD
+http://144.76.80.80:10200/922c3mhhx
+
+#EXTINF:-1,TRT 1 HD
+http://144.76.80.80:10200/s6erguru3
+
+#EXTINF:-1,Tru
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=114&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,U
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=122&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,Universal
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=98&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,VH HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=438&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1,VIASAT SPORT HD
+http://80.77.52.6:4444/udp/230.0.3.58:12345
+
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV",Vevo HD 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV",Vevo HD 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV",Vevo HD 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1,Warner
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=94&lan=2&rows=40&f=.m3u8
