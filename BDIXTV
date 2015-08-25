@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1, ATN NEWS
+http://118.179.35.11/hls/ATN_News/05.m3u8
+#EXTINF:-1, Bangla Vision
+http://118.179.35.11/hls/Bangla_Vision/05.m3u8
+#EXTINF:-1, Channel I
+http://118.179.35.11/hls/ChannelI/05.m3u8
+#EXTINF:-1, Ekushey TV
+http://118.179.35.11/hls/ETV/05.m3u8
+#EXTINF:-1, Independent TV
+http://118.179.35.11/hls/itv24/05.m3u8
+#EXTINF:-1, Jamuna TV
+http://118.179.35.11/hls/JamunaTV/05.m3u8
+#EXTINF:-1, NTV
+http://118.179.35.11/hls/ntv/05.m3u8
+#EXTINF:-1, SATV
+http://118.179.35.11/hls/satv/05.m3u8
+#EXTINF:-1, Somoy
+http://118.179.35.11/hls/Somoy/05.m3u8
+#EXTINF:-1, Channel 9
+http://118.179.35.11/hls/Channel9/05.m3u8
+#EXTINF:-1, Gazi TV
+http://118.179.35.11/hls/sdi1041/05.m3u8
+#EXTINF:-1, Boishakhi
+http://118.179.35.11/hls/BoishakhiTV/05.m3u8
+#EXTINF:-1, Asian TV
+http://118.179.35.11/hls/AsianTV/05.m3u8
+#EXTINF:-1, Desh TV
+http://118.179.35.11/hls/Desh_TV/05.m3u8
+#EXTINF:-1, My TV
+http://118.179.35.11/hls/MyTV/05.m3u8
+#EXTINF:-1, Maasranga TV
+http://118.179.35.11/hls/Maasranga/05.m3u8
+#EXTINF:-1, Al Jazeera
+http://118.179.35.11/hls/Aljazeera/05.m3u8
+
+#EXTINF:-1, 
+Index
+#EXTINF:-1, ATN NEWS
+http://118.179.35.11/hls/ATN_News/index.m3u8
+#EXTINF:-1, Bangla Vision
+http://118.179.35.11/hls/Bangla_Vision/index.m3u8
+#EXTINF:-1, Channel I
+http://118.179.35.11/hls/ChannelI/index.m3u8
+#EXTINF:-1, Ekushey TV
+http://118.179.35.11/hls/ETV/index.m3u8
+#EXTINF:-1, Independent TV
+http://118.179.35.11/hls/itv24/index.m3u8
+#EXTINF:-1, Jamuna TV
+http://118.179.35.11/hls/JamunaTV/index.m3u8
+#EXTINF:-1, NTV
+http://118.179.35.11/hls/ntv/index.m3u8
+#EXTINF:-1, SATV
+http://118.179.35.11/hls/satv/index.m3u8
+#EXTINF:-1, Somoy
+http://118.179.35.11/hls/Somoy/index.m3u8
+#EXTINF:-1, Channel 9
+http://118.179.35.11/hls/Channel9/index.m3u8
+#EXTINF:-1, Gazi TV
+http://118.179.35.11/hls/sdi1041/index.m3u8
+#EXTINF:-1, Boishakhi
+http://118.179.35.11/hls/BoishakhiTV/index.m3u8
+#EXTINF:-1, Asian TV
+http://118.179.35.11/hls/AsianTV/index.m3u8
+#EXTINF:-1, Desh TV
+http://118.179.35.11/hls/Desh_TV/index.m3u8
+#EXTINF:-1, My TV
+http://118.179.35.11/hls/MyTV/index.m3u8
+#EXTINF:-1, Maasranga TV
+http://118.179.35.11/hls/Maasranga/index.m3u8
+#EXTINF:-1, Al Jazeera
+http://118.179.35.11/hls/Aljazeera/index.m3u8
