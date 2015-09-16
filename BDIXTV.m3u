@@ -34,8 +34,7 @@ http://118.179.35.11/hls/Maasranga/05.m3u8
 #EXTINF:-1, Al Jazeera
 http://118.179.35.11/hls/Aljazeera/05.m3u8
 
-#EXTINF:-1, 
-Index
+#EXTINF:-1, Index
 #EXTINF:-1, ATN NEWS
 http://118.179.35.11/hls/ATN_News/index.m3u8
 #EXTINF:-1, Bangla Vision
@@ -70,3 +69,148 @@ http://118.179.35.11/hls/MyTV/index.m3u8
 http://118.179.35.11/hls/Maasranga/index.m3u8
 #EXTINF:-1, Al Jazeera
 http://118.179.35.11/hls/Aljazeera/index.m3u8
+
+#EXTINF:-1, 04
+#EXTINF:-1, ATN NEWS
+http://118.179.35.11/hls/ATN_News/04.m3u8
+#EXTINF:-1, Bangla Vision
+http://118.179.35.11/hls/Bangla_Vision/04.m3u8
+#EXTINF:-1, Channel I
+http://118.179.35.11/hls/ChannelI/04.m3u8
+#EXTINF:-1, Ekushey TV
+http://118.179.35.11/hls/ETV/04.m3u8
+#EXTINF:-1, Independent TV
+http://118.179.35.11/hls/itv24/04.m3u8
+#EXTINF:-1, Jamuna TV
+http://118.179.35.11/hls/JamunaTV/04.m3u8
+#EXTINF:-1, NTV
+http://118.179.35.11/hls/ntv/04.m3u8
+#EXTINF:-1, SATV
+http://118.179.35.11/hls/satv/04.m3u8
+#EXTINF:-1, Somoy
+http://118.179.35.11/hls/Somoy/04.m3u8
+#EXTINF:-1, Channel 9
+http://118.179.35.11/hls/Channel9/04.m3u8
+#EXTINF:-1, Gazi TV
+http://118.179.35.11/hls/sdi1041/04.m3u8
+#EXTINF:-1, Boishakhi
+http://118.179.35.11/hls/BoishakhiTV/04.m3u8
+#EXTINF:-1, Asian TV
+http://118.179.35.11/hls/AsianTV/04.m3u8
+#EXTINF:-1, Desh TV
+http://118.179.35.11/hls/Desh_TV/04.m3u8
+#EXTINF:-1, My TV
+http://118.179.35.11/hls/MyTV/04.m3u8
+#EXTINF:-1, Maasranga TV
+http://118.179.35.11/hls/Maasranga/04.m3u8
+#EXTINF:-1, Al Jazeera
+http://118.179.35.11/hls/Aljazeera/04.m3u8
+
+#EXTINF:-1, 03
+#EXTINF:-1, ATN NEWS
+http://118.179.35.11/hls/ATN_News/03.m3u8
+#EXTINF:-1, Bangla Vision
+http://118.179.35.11/hls/Bangla_Vision/03.m3u8
+#EXTINF:-1, Channel I
+http://118.179.35.11/hls/ChannelI/03.m3u8
+#EXTINF:-1, Ekushey TV
+http://118.179.35.11/hls/ETV/03.m3u8
+#EXTINF:-1, Independent TV
+http://118.179.35.11/hls/itv24/03.m3u8
+#EXTINF:-1, Jamuna TV
+http://118.179.35.11/hls/JamunaTV/03.m3u8
+#EXTINF:-1, NTV
+http://118.179.35.11/hls/ntv/03.m3u8
+#EXTINF:-1, SATV
+http://118.179.35.11/hls/satv/03.m3u8
+#EXTINF:-1, Somoy
+http://118.179.35.11/hls/Somoy/03.m3u8
+#EXTINF:-1, Channel 9
+http://118.179.35.11/hls/Channel9/03.m3u8
+#EXTINF:-1, Gazi TV
+http://118.179.35.11/hls/sdi1041/03.m3u8
+#EXTINF:-1, Boishakhi
+http://118.179.35.11/hls/BoishakhiTV/03.m3u8
+#EXTINF:-1, Asian TV
+http://118.179.35.11/hls/AsianTV/03.m3u8
+#EXTINF:-1, Desh TV
+http://118.179.35.11/hls/Desh_TV/03.m3u8
+#EXTINF:-1, My TV
+http://118.179.35.11/hls/MyTV/03.m3u8
+#EXTINF:-1, Maasranga TV
+http://118.179.35.11/hls/Maasranga/03.m3u8
+#EXTINF:-1, Al Jazeera
+http://118.179.35.11/hls/Aljazeera/03.m3u8
+
+#EXTINF:-1, 02
+#EXTINF:-1, ATN NEWS
+http://118.179.35.11/hls/ATN_News/02.m3u8
+#EXTINF:-1, Bangla Vision
+http://118.179.35.11/hls/Bangla_Vision/02.m3u8
+#EXTINF:-1, Channel I
+http://118.179.35.11/hls/ChannelI/02.m3u8
+#EXTINF:-1, Ekushey TV
+http://118.179.35.11/hls/ETV/02.m3u8
+#EXTINF:-1, Independent TV
+http://118.179.35.11/hls/itv24/02.m3u8
+#EXTINF:-1, Jamuna TV
+http://118.179.35.11/hls/JamunaTV/02.m3u8
+#EXTINF:-1, NTV
+http://118.179.35.11/hls/ntv/02.m3u8
+#EXTINF:-1, SATV
+http://118.179.35.11/hls/satv/02.m3u8
+#EXTINF:-1, Somoy
+http://118.179.35.11/hls/Somoy/02.m3u8
+#EXTINF:-1, Channel 9
+http://118.179.35.11/hls/Channel9/02.m3u8
+#EXTINF:-1, Gazi TV
+http://118.179.35.11/hls/sdi1041/02.m3u8
+#EXTINF:-1, Boishakhi
+http://118.179.35.11/hls/BoishakhiTV/02.m3u8
+#EXTINF:-1, Asian TV
+http://118.179.35.11/hls/AsianTV/02.m3u8
+#EXTINF:-1, Desh TV
+http://118.179.35.11/hls/Desh_TV/02.m3u8
+#EXTINF:-1, My TV
+http://118.179.35.11/hls/MyTV/02.m3u8
+#EXTINF:-1, Maasranga TV
+http://118.179.35.11/hls/Maasranga/02.m3u8
+#EXTINF:-1, Al Jazeera
+http://118.179.35.11/hls/Aljazeera/02.m3u8
+
+#EXTINF:-1, 01
+#EXTINF:-1, ATN NEWS
+http://118.179.35.11/hls/ATN_News/01.m3u8
+#EXTINF:-1, Bangla Vision
+http://118.179.35.11/hls/Bangla_Vision/01.m3u8
+#EXTINF:-1, Channel I
+http://118.179.35.11/hls/ChannelI/01.m3u8
+#EXTINF:-1, Ekushey TV
+http://118.179.35.11/hls/ETV/01.m3u8
+#EXTINF:-1, Independent TV
+http://118.179.35.11/hls/itv24/01.m3u8
+#EXTINF:-1, Jamuna TV
+http://118.179.35.11/hls/JamunaTV/01.m3u8
+#EXTINF:-1, NTV
+http://118.179.35.11/hls/ntv/01.m3u8
+#EXTINF:-1, SATV
+http://118.179.35.11/hls/satv/01.m3u8
+#EXTINF:-1, Somoy
+http://118.179.35.11/hls/Somoy/01.m3u8
+#EXTINF:-1, Channel 9
+http://118.179.35.11/hls/Channel9/01.m3u8
+#EXTINF:-1, Gazi TV
+http://118.179.35.11/hls/sdi1041/01.m3u8
+#EXTINF:-1, Boishakhi
+http://118.179.35.11/hls/BoishakhiTV/01.m3u8
+#EXTINF:-1, Asian TV
+http://118.179.35.11/hls/AsianTV/01.m3u8
+#EXTINF:-1, Desh TV
+http://118.179.35.11/hls/Desh_TV/01.m3u8
+#EXTINF:-1, My TV
+http://118.179.35.11/hls/MyTV/01.m3u8
+#EXTINF:-1, Maasranga TV
+http://118.179.35.11/hls/Maasranga/01.m3u8
+#EXTINF:-1, Al Jazeera
+http://118.179.35.11/hls/Aljazeera/01.m3u8
+
