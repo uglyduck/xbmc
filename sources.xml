@@ -1,0 +1,50 @@
+/* WARNING */
+/* Using this xml will remove any local source from your hard drive for movies, pictures and audio files and programs. */
+
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>*Fusion</name>
+            <path pathversion="1">http://fusion.tvaddons.ag/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>*xfinity</name>
+            <path pathversion="1">http://xunitytalk.com/xfinity</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>*SuperRepo</name>
+            <path pathversion="1">http://srp.nu/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>*zeus</name>
+            <path pathversion="1">http://zeusrepo.com/zeus/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>*MetalKettle</name>
+            <path pathversion="1">http://kodi.metalkettle.co/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>*DexterIPTV</name>
+            <path pathversion="1">http://dexteriptv.com/repo</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+</sources>
