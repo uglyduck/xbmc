@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1,Parent directory
+http://217.219.143.108/3309/
 #EXTINF:-1,Pandorum
 http://217.219.143.108/3309/Pandorum%20(2009)/Pandorum.720p.mkv
