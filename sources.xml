@@ -17,23 +17,13 @@
     <files>
         <default pathversion="1"></default>
         <source>
-            <name>*Fusion</name>
-            <path pathversion="1">http://fusion.tvaddons.ag/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>*xfinity</name>
-            <path pathversion="1">http://xunitytalk.com/xfinity</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
             <name>*SuperRepo</name>
             <path pathversion="1">http://srp.nu/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>*zeus</name>
-            <path pathversion="1">http://zeusrepo.com/zeus/</path>
+            <name>*Fusion</name>
+            <path pathversion="1">http://fusion.tvaddons.ag/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
@@ -42,9 +32,55 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>*DexterIPTV</name>
-            <path pathversion="1">http://dexteriptv.com/repo</path>
+            <name>*xfinity</name>
+            <path pathversion="1">http://xunitytalk.me/xfinity/</path>
             <allowsharing>true</allowsharing>
         </source>
+        <source>
+            <name>*DexterTV</name>
+            <path pathversion="1">http://dexteriptv.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>*Muckys</name>
+            <path pathversion="1">http://muckys.kodimediaportal.ml/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>*Dij</name>
+            <path pathversion="1">http://dij.x10host.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>*RenegadesTV</name>
+            <path pathversion="1">http://sharktech.co.uk/repo/RenegadesTV/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>3309</name>
+            <path pathversion="1">http://217.219.143.108/3309/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>PersianCamp.info</name>
+            <path pathversion="1">http://dl3.persiancamp.info/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>zip</name>
+            <path pathversion="1">http://www.areswizard.co.uk/zip/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+        <name>*zeus</name>
+            <path pathversion="1">http://zeusrepo.com/zeus/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+                <source>
+        <name>*7filmia serial</name>
+            <path pathversion="1">http://server.7filmia.ir/Data/Serial/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        
     </files>
 </sources>
